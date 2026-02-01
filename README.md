@@ -38,9 +38,7 @@ The following resources are available in the Google Drive link below:
  **Google Drive Link**
  https://drive.google.com/drive/folders/1DReXJWKjqi-BpKUDkP4Y8JLG0Pc8i_2p?usp=drive_link
 
-
-
-## 🚀 Applications
+**Applications**
 - Smart home automation  
 - Touchless appliance control  
 - Assistive technology  
